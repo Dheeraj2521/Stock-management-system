@@ -1,8 +1,7 @@
 # Stock-management-system
 
 # About
-This helps us to access and manage the information easily. This alsohelps to verify the stock currently available with themand to updatethestock when necessary. This also reduce the time to search the product
-from the current available stock.The role of an inventory systemis totrack your products and supplies. Inventory management is the process ofcontrolling of the ordering, storage and use of components that acompany uses in the production of the products it sells.
+This helps us to access and manage the information easily. This also helps to verify the stock currently available with them and to update the stock when necessary. This also reduce the time to search the product from the current available stock.The role of an inventory system is to track your products and supplies. Inventory management is the process of controlling of the ordering, storage and use of components that acompany uses in the production of the products it sells.
 
 # Features
 - Login
